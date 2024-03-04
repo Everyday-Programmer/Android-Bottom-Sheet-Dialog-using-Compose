@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Compose Bottom Sheet"
+rootProject.name = "Bottom Sheet Compose"
 include(":app")
- 
